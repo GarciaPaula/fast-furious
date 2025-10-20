@@ -1,0 +1,4 @@
+1. Fijar un objetivo.
+2. Calcular a qué distancia estás del objetivo.
+3. Crear plan de ruta de acercamiento al objetivo.
+4. Cuando creas que ya has conseguido el objetivo, aún no lo has conseguido.
